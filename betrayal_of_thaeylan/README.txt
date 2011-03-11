@@ -70,6 +70,10 @@ Hawks				RPG Sample Resources
 5. Change log
 -------------
 
+v0.5.1
+Released 10 Mar 2011
+- Small bug fix: Wayfarer's attacks increased
+
 v0.5
 Released 19 Feb 2011
 Status: 9 scenarios complete
