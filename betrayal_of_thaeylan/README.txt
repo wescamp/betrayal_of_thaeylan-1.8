@@ -1,5 +1,5 @@
 Betrayal of Thaeylan
-v0.5
+v0.6
 --------------------
 
 1. What is it?
@@ -49,18 +49,21 @@ Credits for non-mainline artwork:
 Scout				Age of Trials, by Atz
 Pathfinder/Wayfarer 		Bad paintover (my work) of the mainline Ranger
 Blue Mage			Bad paintover (my work) of the mainlie White Mage
-Tempest				Terrible attempt to make my own sprite
+Tempest				Terrible attempt to make my own sprite, drew on the thief line for the hair
+Blue Mage/Tempest Attack Icon	Eleazar
 Whole scrapper line		Obvious paintover (my work) of the mainline thief line
 Vaeringjar			The Vaeringjar, by Cloud and Grigistian
-Desert Elves			From mainline campaign Under the Burning Suds
+Desert Elves			From mainline campaign Under the Burning Suns
 Hawks				RPG Sample Resources
+Devlings			Original idea and art, dreampilot; portraits, EVILEST
+Dark Cloud			Drawn from Era of Magic, by inferno8, but it's not clear if the unit came from somewhere else
 
 =========================
 
 4. Known Problems
 -----------------
 
-- Currently in scenario 6 you are asked to choose from two paths. Only one path is currently complete so either path you choose you will go after the drakes.
+- In scenario 6 you are asked to choose from two paths. Only one path is currently complete so either path you choose you will go after the drakes.
 
 - It will load scenario 10 but end immediately. That scenario is not yet done.
 
@@ -69,6 +72,15 @@ Hawks				RPG Sample Resources
 
 5. Change log
 -------------
+
+v0.6
+Released 12 Mar 2011
+- Normal/Hard difficulties now available (choice is once at the beginning of the first scenario)
+- Prices adjusted for Scrapper
+- New units: Peltast, a level 3 for the Javilineer, which gains a harass attack that does little damage but can cause the targeted unit to lose zone of control for one turn
+- Improved clearing of variables, but still several from scenario 6 onwards that need to be cleared
+- Blue Mage/Tempest units got a new spell attack icon from Eleazer
+- Now both players gain the ability recruit scouts if they have Dirkmun in scenario 4
 
 v0.5.1
 Released 10 Mar 2011
