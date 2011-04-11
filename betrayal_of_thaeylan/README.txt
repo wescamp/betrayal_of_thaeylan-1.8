@@ -15,12 +15,13 @@ v0.6
 
 A two-player campaign for Battle for Wesnoth that will have 12-15 scenarios when complete. Currently there are 9 scenarios complete, which form the first of two major story-arcs.
 
-This scenario is a battle-/army-based campaign similar in some respects to Heir to the Throne. In the beginning, the first player uses predominantly outlaws and the second player uses loyalist units. There are four new units integrated in the campaign in its current state:
+This scenario is a battle-/army-based campaign similar in some respects to Heir to the Throne. In the beginning, the first player uses predominantly outlaws and the second player uses loyalist units. There are five new units integrated in the campaign in its current state:
 
 Scout 		> *Pathfinder 		> Wayfarer
 NONE		> *Field Marshal 	> Lieutenant General 	> Captain General
 Mage		> Blue Mage		> Tempest
 Scrapper	> Brawler		> Cutthroat
+Spearman	> Javelineer	> Peltast
 
 * Leader unit
 
@@ -30,7 +31,7 @@ Scrapper	> Brawler		> Cutthroat
 2. How to play
 --------------
 
-From the main menu of Battle for Wesnoth select Multiplayer. Then browse the list of scenarios on the left and select "Betrayal of Thaeylan". Use all map settings and always load your saved game from this menu.
+Select Multiplayer from the main menu of Battle for Wesnoth. Then browse the list of scenarios on the left and select "Betrayal of Thaeylan". Use all map settings and always load your saved game from this menu.
 
 
 =========================
@@ -73,6 +74,13 @@ Dark Cloud			Drawn from Era of Magic, by inferno8, but it's not clear if the uni
 5. Change log
 -------------
 
+v0.6.1
+Released 31 Mar 2011
+- New unit trees separated from mainline to prevent OOS errors when playing regular multiplayer
+- Scrapper and Scout lines had their terrain defenses adjusted to make them more vulnerable
+- Female Mages can now level into Blue Mages
+- Difficulty levels should be set properly for both players
+
 v0.6
 Released 12 Mar 2011
 - Normal/Hard difficulties now available (choice is once at the beginning of the first scenario)
@@ -81,6 +89,7 @@ Released 12 Mar 2011
 - Improved clearing of variables, but still several from scenario 6 onwards that need to be cleared
 - Blue Mage/Tempest units got a new spell attack icon from Eleazer
 - Now both players gain the ability recruit scouts if they have Dirkmun in scenario 4
+- Lots of tweaks to dialogue, fixes for small errors or adjustments to balancing
 
 v0.5.1
 Released 10 Mar 2011
