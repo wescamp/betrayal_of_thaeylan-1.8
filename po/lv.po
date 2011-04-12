@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-03-13 17:21+0100\n"
+"POT-Creation-Date: 2011-04-12 14:30+0200\n"
 "PO-Revision-Date: 2011-02-27 17:26+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -13,18 +13,18 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
 
-#. [multiplayer]: id=01_betrayal, type=Pathfinder, type=Field Marshal
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:8
+#. [multiplayer]: id=01_betrayal, type=BoT Pathfinder, type=BoT Field Marshal
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:9
 msgid "Betrayal of Thaeylan"
 msgstr ""
 
 #. [objective]: condition=win
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:28
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:30
 msgid "Synn must reach the Southern Crossing fortress"
 msgstr ""
 
 #. [objectives]
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:36
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:38
 msgid ""
 "\n"
 "No gold will be carried over to the next scenario.\n"
@@ -34,112 +34,112 @@ msgid ""
 msgstr ""
 
 #. [event]: (id=s3OrcWarrior1)}, (id=s3OrcWarrior2)}, (id=s3OrcWarrior3)}, (id=s3WolfRider1)}, (id=s3WolfRider2)}, id=s4nSwordsman1, id=s4nSpearman1, id=s4nBowman1, id=s4SupressRebels, id=FriendCommander
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:141
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:143
 msgid "Julian"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:211
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:221
 msgid ""
 "Please select your preferred difficulty level. This will last for the entire "
 "campaign."
 msgstr ""
 
 #. [option]: speaker=narrator
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:213
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:223
 msgid "Normal"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:222
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:232
 msgid "Hard"
 msgstr ""
 
 #. [message]: speaker=peasant4
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:468
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:477
 msgid "To arms!"
 msgstr ""
 
 #. [message]: speaker=peasant5
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:497
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:506
 msgid "Where is the battle?"
 msgstr ""
 
 #. [message]: speaker=peasant4
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:549
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:558
 msgid "This is a dark hour."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:570
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:579
 msgid ""
 "The orcs will slaughter anyone in the villages they capture. I must reach "
 "them first to rouse the peasants to battle."
 msgstr ""
 
 #. [message]: speaker=peasant4
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:618
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:627
 msgid "We're not afraid of the orcs now that you're here!"
 msgstr ""
 
 #. [message]: speaker=s1Scrapper1
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:641
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:650
 msgid "Hail Synn!"
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:645
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:654
 msgid "A robbery! You could not have picked a worse time to delay me."
 msgstr ""
 
 #. [message]: speaker=s1Scrapper1
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:649
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:658
 msgid ""
 "Not this time. I come to ask if the rumors are true. Has Ayndun let Orcs "
 "loose in our land? Have you and Muhyrim turned against him?"
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:653
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:662
 msgid ""
 "I'm afraid it's true. I am hurrying now to alert Herald so that he can "
 "prepare."
 msgstr ""
 
 #. [message]: speaker=s1Scrapper1
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:657
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:666
 msgid "Word must have spread to Ayndun's garrisons by now. You will need help."
 msgstr ""
 
 #. [message]: speaker=s1Scrapper1
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:675
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:684
 msgid "We will help you get to Herald."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:685
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:694
 msgid ""
 "Your company is welcome, but we must move now. The orcs have already "
 "destroyed the northern defenses. They will spread across the valley quickly."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:691
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:700
 msgid "Your company is welcome, but we must move now."
 msgstr ""
 
 #. [unit]: type=Knight, id=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:710
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:719
 msgid "Herald"
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:716
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:725
 msgid "Synn, what's going on? Why have you come so far south?"
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:720
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:729
 msgid ""
 "Ayndun made a pact with the Orcs and allowed them to cross unhindered. They "
 "have breached our defenses and are scattered throughout the countryside. "
@@ -147,7 +147,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:724
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:733
 msgid ""
 "It seems that Ayndun has finally lost the last trace of honor that still "
 "clung to him. We must alert the resistance. Long have we plotted together "
@@ -156,7 +156,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:728
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:737
 msgid ""
 "This is a tragedy for our kingdom, Herald. But it will soon be a tragedy for "
 "all the peoples of the south. This battle is lost. Even as we speak more "
@@ -164,7 +164,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:732
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:741
 msgid ""
 "You are right, Synn. I will ride into the south and begin to raise an army "
 "among the peasants in the countryside. You and Muhyrim face a more perilous "
@@ -173,7 +173,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:736
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:745
 msgid ""
 "We will leave immediately. But before I go, Herald, I want to ask you a "
 "favor. Muhyrim would not like me asking you this, but I must. His son is in "
@@ -181,19 +181,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:740
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:749
 msgid ""
 "Say no more. I will pass through there on my way and I will be sure he is "
 "safe from Ayndun's spies."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:744
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:753
 msgid "Thank you."
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:749
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:758
 msgid ""
 "You will need some help. Head to the village of Landrun just north of here. "
 "It is a resistance stronghold, but if you wear this around your neck they "
@@ -202,12 +202,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:753
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:762
 msgid "Perhaps you forget that I come from the outlands."
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:757
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:766
 msgid ""
 "Don't be a fool. You were a young man when last you were there. Dirkmun will "
 "know the land and the people. He is a smuggler who journeys regularly into "
@@ -215,75 +215,75 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:761
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:770
 msgid ""
 "You're right. Now is not the time to refuse help. I will go if I can spare "
 "the time."
 msgstr ""
 
 #. [message]: speaker=Herald
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:765
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:774
 msgid "Farewell. If all goes well, I will send word of my progress."
 msgstr ""
 
 #. [objective]: condition=win
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:783
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:792
 msgid "Synn and Muhyrim must reach the signposts in the southeast"
 msgstr ""
 
 #. [unit]: type=Bandit, id=Dirkmun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:820
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:829
 msgid "Dirkmun"
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:831
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:840
 msgid "So you want to go into the outlands, eh?"
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:835
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:844
 msgid "Herald says you might be able to help us."
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:839
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:848
 msgid ""
 "Well why not? With all these orcs about I think it's time for me to leave as "
 "well. But we'll need some help if we're going to make it."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:865
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:874
 msgid ""
 "We must hurry. Muhyrim is waiting for our return. I'm afraid he won't make "
 "it if we don't get there soon."
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:869
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:878
 msgid "Let's go."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:890
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:899
 msgid "So you will defend the King as well, Julian?"
 msgstr ""
 
 #. [message]: speaker=FriendCommander
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:897
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:906
 msgid ""
 "I must think of my family. If I betray the King he will take his vengeance."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:901
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:910
 msgid ""
 "We trained together years ago. You are my friend. Will you really kill me?"
 msgstr ""
 
 #. [message]: speaker=FriendCommander
-#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:905
+#: betrayal_of_thaeylan/scenarios/01_betrayal.cfg:914
 msgid "We are soldiers. Let us not wish for different lives now."
 msgstr ""
 
@@ -390,7 +390,7 @@ msgid ""
 "<span color='green'>Rescue Nivyan from the Ogre</span>"
 msgstr ""
 
-#. [unit]: type=Blue Mage, id=Nivyan
+#. [unit]: type=BoT Blue Mage, id=Nivyan
 #: betrayal_of_thaeylan/scenarios/02_sea_sorrows.cfg:301
 msgid "Nivyan"
 msgstr ""
@@ -410,10 +410,10 @@ msgstr ""
 #. [message]: speaker=Nivyan
 #: betrayal_of_thaeylan/scenarios/02_sea_sorrows.cfg:315
 msgid ""
-"I am Nivyan. I run a training program for young mages. Out here, we don't "
-"arouse the envy of others and there are plenty of opportunities to practice "
-"our skills on those who would harm us. But this Ogre got the best of us! "
-"What are men under the king's banner doing in these lands?"
+"I run a training program for young mages. Out here, we don't arouse the envy "
+"of others and there are plenty of opportunities to practice our skills on "
+"those who would harm us. But this Ogre got the best of us! What are men "
+"under the king's banner doing in these lands?"
 msgstr ""
 
 #. [message]: speaker=Muhyrim
@@ -460,9 +460,7 @@ msgid "Muhyrim and Synn must reach the signposts"
 msgstr ""
 
 #. [multiplayer]: id=03_river_waine
-#. [side]: type=Goblin Pillager, id=Pillager
 #: betrayal_of_thaeylan/scenarios/03_river_waine.cfg:49
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:201
 msgid "Goblins"
 msgstr ""
 
@@ -507,33 +505,33 @@ msgid ""
 msgstr ""
 
 #. [multiplayer]: id=04_brigands_mire
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:7
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:8
 msgid "04 - Brigand's Mire"
 msgstr ""
 
 #. [objective]: condition=win
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:30
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:31
 msgid "Find the path east"
 msgstr ""
 
 #. [multiplayer]: id=04_brigands_mire
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:51
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:52
 msgid "Brigand"
 msgstr ""
 
 #. [multiplayer]: id=04_brigands_mire
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:61
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:62
 msgid "Creatures"
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:122
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:164
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:123
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:165
 msgid "Look at this foggy marsh, we can't see anything in there."
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:126
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:127
 msgid ""
 "The air hangs thick in the Brigand's Mire, and the paths are treacherous. "
 "All manner of beasts make their home here, even we outlaws, hunted by the "
@@ -541,7 +539,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:130
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:131
 msgid ""
 "I hardly think you were hunted for no cause. Sir Galyth's men were sent here "
 "because the rebels would not stand and fight in the countryside. It was a "
@@ -549,7 +547,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:134
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:135
 msgid ""
 "You call it war? To capture the children who can not flee and hold them "
 "ransom for their family? To hunt out our meager encampments as we clung to "
@@ -558,14 +556,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:138
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:139
 msgid ""
 "When word of Galyth's excesses reached us, we pleaded with King Ayndun to "
 "put a stop --"
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:142
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:143
 msgid ""
 "You pleaded!? I am sure my brothers and sisters went to their deaths "
 "grateful for your pleas. When our skin began to rot from squatting in the "
@@ -574,7 +572,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:146
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:147
 msgid ""
 "Enough! We can not share responsibility for every mistake King Ayndun has "
 "made. We have lost many men because of his foolish pride and in the west "
@@ -584,7 +582,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:150
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:151
 msgid ""
 "It is unlikely. It was many years ago and few of us survived. Those that did "
 "were eager to leave and the men who are still here likely know little of our "
@@ -593,19 +591,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:154
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:155
 msgid "Then we must find our way through. But which is the correct path?"
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:158
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:159
 msgid ""
 "It is impossible to say. The solid ground shifts each year with the rainy "
 "season, but we must head east and search for an opening."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:168
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:169
 msgid ""
 "It is called the Brigand's Mire, because outlaws of all kinds take shelter "
 "in here to hide from the King's men. But it is also dangerous. The muddy "
@@ -613,12 +611,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:172
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:173
 msgid "How can we find our way through it?"
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:176
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:177
 msgid ""
 "They say the waters shift every season, so we must make our way on our own. "
 "But it is to the east and the edge of the elvish forest we must head. Surely "
@@ -626,56 +624,56 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:323
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:324
 msgid "We found someone's stash. This temple is full of gold pieces!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:331
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:332
 msgid "Synn receives 50 gold."
 msgstr ""
 
 #. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:337
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:338
 msgid "I've found a great store of gold in this temple!"
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:341
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:342
 msgid "We ought to share it around."
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:345
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:346
 msgid "Share it? Spoils are owed to he who finds them."
 msgstr ""
 
 #. [message]: speaker=Muhyrim
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:349
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:350
 msgid "Maybe in your thieving code. But we've learned to work together."
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:353
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:354
 msgid ""
 "Yes, I forgot. When those in power share the fruit of another man's labor "
 "amongst themselves they call it honor."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:365
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:366
 msgid "Synn and Muhyrim each receive 75 gold."
 msgstr ""
 
 #. [message]: speaker=Carennyn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:411
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:417
 msgid ""
 "So you've found our hideout. No matter. We'll take you down with us if "
 "that's the way it must be."
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:416
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:422
 msgid ""
 "Wait! We have not come for you. I made my home in this marsh during the "
 "King's campaign. I fought with those who took shelter in its darkest "
@@ -685,53 +683,53 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Carennyn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:420
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:426
 msgid ""
 "There are few left here who survived those days. Who are you who speaks of "
 "Sir Galyth and in the same breath asks me to trust the King's men?"
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:424
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:430
 msgid ""
 "I am Dirkmun and I was one of Balthaur's boys. I was a young man when last I "
 "fought in these marshes."
 msgstr ""
 
 #. [message]: speaker=Carennyn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:428
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:434
 msgid ""
 "You claim to be Dirkmun, but I can't trust it. Tell me, who was your father?"
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:432
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:438
 msgid ""
 "I am the son of no man. I was one of Balthaur's boys and he was all the "
 "father we needed."
 msgstr ""
 
 #. [message]: speaker=Carennyn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:436
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:442
 msgid ""
 "That's what they said of his boys then, but I knew better. Apparently you do "
 "not."
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:440
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:446
 msgid "Now I must ask. Who are you?"
 msgstr ""
 
 #. [message]: speaker=Carennyn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:444
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:450
 msgid ""
 "No questions for the impostor. I won't tolerate someone impuning Dirkmun's "
 "name. He would never fight with men of the King."
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:448
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:454
 msgid ""
 "If you insist on pressing me, then you can only be speaking of one thing. "
 "Yes, my father was Sir Galyth, the iron fist himself. I was born to him and "
@@ -739,14 +737,14 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Carennyn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:452
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:458
 msgid ""
 "How you have aged, Dirkmun. You look terrible, but I knew it was you the "
 "moment you spoke of Balthaur. Come, tell me everything."
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:456
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:462
 msgid ""
 "Synn and Muhyrim, I will catch up with you soon, but I must speak to "
 "Carennyn for a while. Fear not, his men will assist us on our way through "
@@ -754,46 +752,46 @@ msgid ""
 msgstr ""
 
 #. [set_variable]
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:513
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:519
 msgid "northeast"
 msgstr ""
 
 #. [set_variable]
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:535
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:541
 msgid "southeast"
 msgstr ""
 
 #. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:553
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:559
 msgid "There's only more swamp this way! There must be another way out."
 msgstr ""
 
 #. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:580
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:586
 msgid "I can see the way out over here!"
 msgstr ""
 
 #. [objective]: condition=win
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:589
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:595
 msgid "Muhyrim and Synn must reach the $exit_name corner of the map"
 msgstr ""
 
 #. [message]: speaker=Dirkmun
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:636
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:642
 msgid ""
 "Not leaving without me I hope! I have been able to convince the guild of "
 "scouts to join us."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:649
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:655
 msgid ""
 "It's good to have friends. But I hope they are as eager as I am to make "
 "haste out of this filthy bog."
 msgstr ""
 
 #. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:655
+#: betrayal_of_thaeylan/scenarios/04_brigands_mire.cfg:661
 msgid "We made it! Let's make haste out of this filthy bog."
 msgstr ""
 
@@ -967,7 +965,8 @@ msgstr ""
 #. [objective]: condition=win
 #: betrayal_of_thaeylan/scenarios/06_elvish_home.cfg:30
 #: betrayal_of_thaeylan/scenarios/08a_burning_mountain.cfg:28
-#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:28
+#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:29
+#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:28
 #: betrayal_of_thaeylan/scenarios/09_second_kingdom.cfg:31
 msgid "Defeat all enemy leaders"
 msgstr ""
@@ -975,7 +974,8 @@ msgstr ""
 #. [objective]: condition=lose
 #: betrayal_of_thaeylan/scenarios/06_elvish_home.cfg:35
 #: betrayal_of_thaeylan/scenarios/08a_burning_mountain.cfg:33
-#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:33
+#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:34
+#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:37
 #: betrayal_of_thaeylan/scenarios/09_second_kingdom.cfg:40
 msgid "Death of Mirandel"
 msgstr ""
@@ -1101,51 +1101,51 @@ msgid "We must hurry through the caves to the Second Kingdom."
 msgstr ""
 
 #. [multiplayer]: id=07a_scorched_path
-#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:7
+#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:8
 msgid "07 - The Scorched Path"
 msgstr ""
 
 #. [message]: speaker=Kyren
-#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:162
+#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:163
 msgid "Such fools, human and elf alike. We will crush you."
 msgstr ""
 
 #. [message]: speaker=Mirandel
-#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:166
+#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:167
 msgid ""
 "Drakes aided by the dark arts? Such alliances must be the troubles that "
 "Nivyan told us about."
 msgstr ""
 
 #. [message]: speaker=Kyren
-#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:191
+#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:192
 msgid ""
 "This is not going well. I must return at once, but I will leave you with a "
 "gift."
 msgstr ""
 
 #. [message]: speaker=DrakeLeaderS5
-#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:200
+#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:201
 msgid "You are fleeing now? This was not the agreement. Have you no honor?"
 msgstr ""
 
 #. [message]: speaker=Georn
-#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:209
+#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:210
 msgid ""
 "He wants honor from a dark sorcerer? They will love this story back home."
 msgstr ""
 
 #. [message]: speaker=Mirandel
-#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:215
+#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:216
 msgid "He wants honor from a dark sorcerer? How pitiful."
 msgstr ""
 
 #. [message]: speaker=Kyren
-#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:279
+#: betrayal_of_thaeylan/scenarios/07a_scorched_path.cfg:280
 msgid "This is not going well. I must return at once."
 msgstr ""
 
-#. [multiplayer]: id=07b_fael_caves, type=Wayfarer, type=Lieutenant General
+#. [multiplayer]: id=07b_fael_caves, type=BoT Wayfarer, type=BoT Lieutenant General
 #: betrayal_of_thaeylan/scenarios/07b_fael_caves.cfg:9
 msgid "07b - The Fael Caves"
 msgstr ""
@@ -1165,7 +1165,7 @@ msgstr ""
 msgid "08 - The Burning Mountain"
 msgstr ""
 
-#. [multiplayer]: id=07b_fael_caves, type=Wayfarer, type=Lieutenant General
+#. [multiplayer]: id=07b_fael_caves, type=BoT Wayfarer, type=BoT Lieutenant General
 #: betrayal_of_thaeylan/scenarios/08b_dwarves_exodus.cfg:19
 msgid "08b - The Dwarves' Exodus"
 msgstr ""
@@ -1176,7 +1176,7 @@ msgid "Investigate the area"
 msgstr ""
 
 #. [objective]: condition=win
-#: betrayal_of_thaeylan/scenarios/08b_dwarves_exodus.cfg:438
+#: betrayal_of_thaeylan/scenarios/08b_dwarves_exodus.cfg:442
 msgid "Survive"
 msgstr ""
 
@@ -1186,6 +1186,7 @@ msgid "09 - The Second Kingdom"
 msgstr ""
 
 #. [objective]: condition=lose
+#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:33
 #: betrayal_of_thaeylan/scenarios/09_second_kingdom.cfg:36
 msgid "Death of Ryden"
 msgstr ""
@@ -1281,318 +1282,16 @@ msgid ""
 msgstr ""
 
 #. [multiplayer]: id=10_lost_ashore
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:10
+#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:7
 msgid "10 - Lost Ashore"
 msgstr ""
 
-#. [objective]: condition=win
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:34
-msgid "Find out where you are"
-msgstr ""
-
-#. [objective]: condition=lose
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:38
-msgid "Death of Synn"
-msgstr ""
-
-#. [objective]: condition=lose
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:42
-msgid "Death of Muhyrim"
-msgstr ""
-
-#. [side]: type=Ranger, id=Synn
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:60
-msgid "Synn"
-msgstr ""
-
-#. [side]: type=Field Marshal, id=Muhyrim
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:98
-msgid "Muhyrim"
-msgstr ""
-
-#. [side]: type=Desert Hunter, id=DesertHunter
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:150
-msgid "Desert Elves"
-msgstr ""
-
-#. [side]: type=Giant Scorpion, id=ScorpionLeader
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:243
-msgid "Desert Animals"
-msgstr ""
-
-#. [side]: type=Bandit, id=BanditLeader
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:411
-msgid "Villagers"
-msgstr ""
-
-#. [message]: speaker=Finder
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:485
-msgid "Tell me, have you seen an elf wandering in the south?"
-msgstr ""
-
-#. [message]: speaker=second_unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:489
-msgid "No, we haven't."
-msgstr ""
-
-#. [message]: speaker=Finder
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:493
-msgid ""
-"Damn. I am looking for my brother who ran off and hasn't been heard from in "
-"a while. Okay, follow me! Head straight north and you will find our town. "
-"Careful not to stray too far west, there is no water there."
-msgstr ""
-
-#. [message]: speaker=Finder
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:508
-msgid ""
-"Welcome to our town! We are friendly. Hooray. Now here's shit about me "
-"saying stuff."
-msgstr ""
-
-#. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:512
-msgid ""
-"Blah blah blah, here's some dialogue. We learn that to get out of this "
-"desert we must go through caves southwest of here. But in order to get there "
-"we must first follow the edge of the mountains north and then west. If we "
-"try to go straight southwest there are no oasis and stuff. So we have to go "
-"north then west to one of their forts (oh, they also have goblins they fight "
-"here), and then from there head southwest."
-msgstr ""
-
-#. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:526
-msgid ""
-"He appears to be alive, but just barely. I must give him some water quickly!"
-msgstr ""
-
-#. [message]: speaker=Found
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:538
-msgid "Oh no, who are you! What is going on? Blah blah blah blha bla"
-msgstr ""
-
-#. [message]: speaker=Finder
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:552
-msgid "Found! You're alive! Hooray!"
-msgstr ""
-
-#. [message]: speaker=Found
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:556
-msgid "Yes I am thanks to these fuckers."
-msgstr ""
-
-#. [message]: speaker=Finder
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:560
-msgid "Blah blah blah. Now we will join you, hooray!"
-msgstr ""
-
-#. [message]: speaker=NorthFortSpeaker
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:597
-msgid ""
-"You must be weary from your journey. Take a rest inside our walls. We have "
-"not seen goblins in many days so you should be safe here. We will prepare a "
-"feast for you."
-msgstr ""
-
-#. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:601
-msgid ""
-"Thank you, this sun has drained us. We won't stay long. We must hurry to the "
-"caves of Aeloim Eay."
-msgstr ""
-
-#. [message]: speaker=NorthFortSpeaker
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:605
-msgid ""
-"I wish I could comfort you, but the next stage of your journey is very "
-"rough. Here on the frontiers the sand has not been worn smooth from elvish "
-"boots. You will need to travel southwest to reach our last fort before "
-"turning south. You will find only one oasis between here and the fort, so "
-"take care to travel swiftly."
-msgstr ""
-
-#. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:609
-msgid "We will wait until the late afternoon to set off, then."
-msgstr ""
-
-#. [message]: speaker=WestFortSpeaker
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:678
-msgid ""
-"Come quickly! Our scouts tell us goblins are on the loose. You will not be "
-"safe out there."
-msgstr ""
-
-#. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:682
-msgid "Aye, we are in sore need of a rest. Those hills were tough going."
-msgstr ""
-
-#. [message]: speaker=WestFortSpeaker
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:686
-msgid ""
-"We have been told of your coming. To get to the caves you must go south at "
-"the foot of the mountains. Stay close to the mountains, for the hills are "
-"endless to the east and you will certainly become lost there."
-msgstr ""
-
-#. [message]: speaker=$player_units[$i].id
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:733
-msgid "The heat is too much for me."
-msgstr ""
-
-#. [animate_unit]
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:754
-msgid "10"
-msgstr ""
-
-#. [unit]: id=Sarathin, type=Silver Mage
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:784
-msgid "Sarathin"
-msgstr ""
-
-#. [message]: speaker=Sarathin
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:792
-msgid ""
-"Visitors! Visitors! Welcome! Welcome! You are very odd, indeed, to be all "
-"the way out here on this lonely island."
-msgstr ""
-
-#. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:796
-msgid "I might say the same for you! What are you doing out here?"
-msgstr ""
-
-#. [message]: speaker=Sarathin
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:800
-msgid ""
-"What am I doing? What a silly question! I am living here. This is my home. "
-"Why would I be anywhere else?"
-msgstr ""
-
-#. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:804
-msgid "But surely you were not born here! How did you get here?"
-msgstr ""
-
-#. [message]: speaker=Sarathin
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:808
-msgid ""
-"Goodness, all these questions must be very troubling for your feeble mind. "
-"I'd prefer if you sat quietly for a little bit, perhaps over there on the "
-"beach, where you can watch the waves come and go and give me peace."
-msgstr ""
-
-#. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:812
-msgid ""
-"I'm afraid I can not. This is no place to be, out here alone, for no reason!"
-msgstr ""
-
-#. [message]: speaker=Sarathin
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:816
-msgid ""
-"Alone? I am not alone. You may be alone but I prefer not to be alone. I am "
-"never alone. (whistles)"
-msgstr ""
-
-#. [message]: speaker=CrazyMageFriend
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:826
-msgid "Sarathin, you have visitors! Is all well for you?"
-msgstr ""
-
-#. [message]: speaker=Sarathin
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:830
-msgid ""
-"All is well! My visitors thought me alone and have insulted my home. It is a "
-"fantastic day!"
-msgstr ""
-
-#. [message]: speaker=CrazyMageFriend
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:834
-msgid ""
-"Don't worry about Sarathin. He may play with your mind a bit, but he is no "
-"harm."
-msgstr ""
-
-#. [message]: speaker=Sarathin
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:838
-msgid "No harm! It seems no one will leave a weary man his pride anymore."
-msgstr ""
-
-#. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:842
-msgid ""
-"You don't look so weary to me. But I must persist. What are you doing out "
-"here?"
-msgstr ""
-
-#. [message]: speaker=Sarathin
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:846
-msgid ""
-"When I was thirty years old I left my home and the lake of my home and came "
-"to this island. Here I have had the enjoyment of my spirit and my solitude, "
-"when the merfolk leave me be, and I have not wearied of it for ten years."
-msgstr ""
-
-#. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:850
-msgid "You have been alone out here for ten years?"
-msgstr ""
-
-#. [message]: speaker=Sarathin
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:854
-msgid ""
-"No! Haven't you read your Nietzsche? Nevermind about that anyway. I like "
-"your inquisitive heart. Let me find something for you, one minute."
-msgstr ""
-
-#. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:858
-msgid ""
-"Are you sure you don't want to come with us? We are making our way to the "
-"west coast and we could use a powerful magi like yourself."
-msgstr ""
-
-#. [message]: speaker=Sarathin
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:862
-msgid ""
-"Of course not! Here it is, a lovely amulet I picked up in my younger years. "
-"It will keep you safe from the darker spirits you will soon face. And give "
-"my regards to Nivyan."
-msgstr ""
-
-#. [message]: speaker=unit
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:866
-msgid "How do you know we are travelling with Nivyan? Who are you?"
-msgstr ""
-
-#. [message]: speaker=Sarathin
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:870
-msgid ""
-"I have been away from polite society for many years, but I believe the "
-"appropriate response is thank you. Stay well!"
-msgstr ""
-
-#. [message]: speaker=narrator
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:881
-msgid ""
-"$unit.name places the amulet around his neck and now has 50% defense against "
-"cold attacks."
-msgstr ""
-
-#. [message]: speaker=Synn
-#: betrayal_of_thaeylan/scenarios/10_lost_ashore.cfg:929
-msgid "We made it!"
-msgstr ""
-
-#. [unit_type]: id=Dark Cloud
+#. [unit_type]: id=BoT Dark Cloud
 #: betrayal_of_thaeylan/units/Cloud_Dark.cfg:4
 msgid "Dark Cloud"
 msgstr ""
 
-#. [unit_type]: id=Dark Cloud
+#. [unit_type]: id=BoT Dark Cloud
 #: betrayal_of_thaeylan/units/Cloud_Dark.cfg:18
 msgid "Dark cloud description."
 msgstr ""
@@ -1603,12 +1302,12 @@ msgstr ""
 msgid "envelope"
 msgstr ""
 
-#. [unit_type]: id=Fire Ghost, race=spirits
+#. [unit_type]: id=BoT Fire Ghost, race=bot_spirits
 #: betrayal_of_thaeylan/units/Spirit_Fire_Ghost.cfg:5
 msgid "Fire Ghost"
 msgstr ""
 
-#. [unit_type]: id=Fire Ghost, race=spirits
+#. [unit_type]: id=BoT Fire Ghost, race=bot_spirits
 #: betrayal_of_thaeylan/units/Spirit_Fire_Ghost.cfg:21
 msgid ""
 "Fire Ghosts are spirits of smoke and flame summoned by powerful magi. When "
@@ -1626,17 +1325,17 @@ msgstr ""
 msgid "fire breath"
 msgstr ""
 
-#. [race]: id=devling
+#. [race]: id=bot_devling
 #: betrayal_of_thaeylan/units/devlings.cfg:7
 msgid "race^Devling"
 msgstr ""
 
-#. [race]: id=devling
+#. [race]: id=bot_devling
 #: betrayal_of_thaeylan/units/devlings.cfg:8
 msgid "race^Devlings"
 msgstr ""
 
-#. [race]: id=devling
+#. [race]: id=bot_devling
 #: betrayal_of_thaeylan/units/devlings.cfg:16
 msgid ""
 "Devlings are small red creatures that live for nothing more than to torment "
@@ -1648,12 +1347,12 @@ msgid ""
 "host to be a serious threat to any well defended territory."
 msgstr ""
 
-#. [unit_type]: id=EOM_Flappers, race=devling
+#. [unit_type]: id=EOM_Flappers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/a1_Flappers.cfg:5
 msgid "Flappers"
 msgstr ""
 
-#. [unit_type]: id=EOM_Flappers, race=devling
+#. [unit_type]: id=EOM_Flappers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/a1_Flappers.cfg:24
 msgid ""
 "Some devlings are of a slightly different breed, and grow wings, and can "
@@ -1674,34 +1373,34 @@ msgstr ""
 msgid "breath"
 msgstr ""
 
-#. [unit_type]: id=EOM_Flyers, race=devling
+#. [unit_type]: id=EOM_Flyers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/a2_Flyers.cfg:5
 msgid "Flyers"
 msgstr ""
 
-#. [unit_type]: id=EOM_Flyers, race=devling
+#. [unit_type]: id=EOM_Flyers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/a2_Flyers.cfg:20
 msgid "Devlings are dangerous without wings, and even more dangerous with."
 msgstr ""
 
-#. [unit_type]: id=EOM_Attackers, race=devling
+#. [unit_type]: id=EOM_Attackers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/a3_Attackers.cfg:5
 msgid "Attackers"
 msgstr ""
 
-#. [unit_type]: id=EOM_Attackers, race=devling
+#. [unit_type]: id=EOM_Attackers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/a3_Attackers.cfg:21
 msgid ""
 "With uncanny speed, heated breath, and sharp weapons, even the smallest of "
 "enemies is a threat."
 msgstr ""
 
-#. [unit_type]: id=EOM_Nailers, race=devling
+#. [unit_type]: id=EOM_Nailers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/b1_Nailers.cfg:5
 msgid "Nailers"
 msgstr ""
 
-#. [unit_type]: id=EOM_Nailers, race=devling
+#. [unit_type]: id=EOM_Nailers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/b1_Nailers.cfg:27
 msgid ""
 "All craftsmen know that if they leave their tools lying about they will get "
@@ -1721,12 +1420,12 @@ msgstr ""
 msgid "club 'em"
 msgstr ""
 
-#. [unit_type]: id=EOM_Spikers, race=devling
+#. [unit_type]: id=EOM_Spikers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/b2_Spikers.cfg:5
 msgid "Spikers"
 msgstr ""
 
-#. [unit_type]: id=EOM_Spikers, race=devling
+#. [unit_type]: id=EOM_Spikers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/b2_Spikers.cfg:21
 msgid ""
 "Devlings are small knaves. They often use tricks to distract their enemies "
@@ -1739,12 +1438,12 @@ msgstr ""
 msgid "spiker 'em"
 msgstr ""
 
-#. [unit_type]: id=EOM_Staplers, race=devling
+#. [unit_type]: id=EOM_Staplers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/b3_Staplers.cfg:5
 msgid "Staplers"
 msgstr ""
 
-#. [unit_type]: id=EOM_Staplers, race=devling
+#. [unit_type]: id=EOM_Staplers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/b3_Staplers.cfg:23
 msgid ""
 "There are few happier things, than a small sadistic creature, with a great "
@@ -1756,12 +1455,12 @@ msgstr ""
 msgid "staple 'em"
 msgstr ""
 
-#. [unit_type]: id=EOM_Overgrown_Devling, race=devling
+#. [unit_type]: id=EOM_Overgrown_Devling, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/c1_Overgrown.cfg:5
 msgid "Overgrown Devling"
 msgstr ""
 
-#. [unit_type]: id=EOM_Overgrown_Devling, race=devling
+#. [unit_type]: id=EOM_Overgrown_Devling, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/c1_Overgrown.cfg:20
 msgid ""
 "Some devlings grow to be almost as tall as a dwarf. These devlings are solid "
@@ -1775,12 +1474,12 @@ msgstr ""
 msgid "bash"
 msgstr ""
 
-#. [unit_type]: id=EOM_Devling_Soldier, race=devling
+#. [unit_type]: id=EOM_Devling_Soldier, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/c2_Soldier.cfg:5
 msgid "Soldier"
 msgstr ""
 
-#. [unit_type]: id=EOM_Devling_Soldier, race=devling
+#. [unit_type]: id=EOM_Devling_Soldier, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/c2_Soldier.cfg:20
 msgid ""
 "Much of devling philosophy is quite simple. Life is about hurting other "
@@ -1790,12 +1489,12 @@ msgid ""
 "are supposed to be stabbing with it rather than slicing..."
 msgstr ""
 
-#. [unit_type]: id=EOM_Devling_Warrior, race=devling
+#. [unit_type]: id=EOM_Devling_Warrior, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/c2_Warrior.cfg:5
 msgid "Warrior"
 msgstr ""
 
-#. [unit_type]: id=EOM_Devling_Warrior, race=devling
+#. [unit_type]: id=EOM_Devling_Warrior, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/c2_Warrior.cfg:20
 msgid ""
 "Much of devling philosophy is quite simple. Life is about hurting other "
@@ -1804,12 +1503,12 @@ msgid ""
 "they pick up a club."
 msgstr ""
 
-#. [unit_type]: id=EOM_Devling_Chief, race=devling
+#. [unit_type]: id=EOM_Devling_Chief, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/c3_Chief.cfg:5
 msgid "Chief"
 msgstr ""
 
-#. [unit_type]: id=EOM_Devling_Chief, race=devling
+#. [unit_type]: id=EOM_Devling_Chief, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/c3_Chief.cfg:21
 msgid ""
 "The Devling Chiefs may look burly compared to their lesser kin but are "
@@ -1818,12 +1517,12 @@ msgid ""
 "be stabbing weapons, but more than make up for that with brute muscle."
 msgstr ""
 
-#. [unit_type]: id=EOM_Devling_Hero, race=devling
+#. [unit_type]: id=EOM_Devling_Hero, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/c3_Hero.cfg:5
 msgid "Hero"
 msgstr ""
 
-#. [unit_type]: id=EOM_Devling_Hero, race=devling
+#. [unit_type]: id=EOM_Devling_Hero, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/c3_Hero.cfg:21
 msgid ""
 "Eventually a deviling can become proficient enough to be revered by his "
@@ -1832,36 +1531,36 @@ msgid ""
 "glory."
 msgstr ""
 
-#. [unit_type]: id=EOM_Sneak, race=devling
+#. [unit_type]: id=EOM_Sneak, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/d0_Sneak.cfg:5
 msgid "Sneak"
 msgstr ""
 
-#. [unit_type]: id=EOM_Sneak, race=devling
+#. [unit_type]: id=EOM_Sneak, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/d0_Sneak.cfg:27
 msgid ""
 "Devilings small size allows them to swiftly slip around enemies, and stick "
 "sharp objects into vulnerable places."
 msgstr ""
 
-#. [unit_type]: id=EOM_Lurker, race=devling
+#. [unit_type]: id=EOM_Lurker, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/d1_Lurker.cfg:5
 msgid "Lurker"
 msgstr ""
 
-#. [unit_type]: id=EOM_Lurker, race=devling
+#. [unit_type]: id=EOM_Lurker, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/d1_Lurker.cfg:22
 msgid ""
 "Devilings who practice sticking knives into peoples backs long enough get "
 "even better at it."
 msgstr ""
 
-#. [unit_type]: id=EOM_Cursers, race=devling
+#. [unit_type]: id=EOM_Cursers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/e1_Cursers.cfg:5
 msgid "Cursers"
 msgstr ""
 
-#. [unit_type]: id=EOM_Cursers, race=devling
+#. [unit_type]: id=EOM_Cursers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/e1_Cursers.cfg:26
 msgid ""
 "Devlings may be small creatures, but they have big mouths. Filthy ones too. "
@@ -1876,12 +1575,12 @@ msgstr ""
 msgid "kick"
 msgstr ""
 
-#. [unit_type]: id=EOM_Blasphemists, race=devling
+#. [unit_type]: id=EOM_Blasphemists, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/e2_Blasphemists.cfg:5
 msgid "Blasphemists"
 msgstr ""
 
-#. [unit_type]: id=EOM_Blasphemists, race=devling
+#. [unit_type]: id=EOM_Blasphemists, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/e2_Blasphemists.cfg:20
 msgid ""
 "Devilings have a way of saying taunting peoples beliefs to undermine their "
@@ -1889,12 +1588,12 @@ msgid ""
 "claw. Devilings like to combine the two."
 msgstr ""
 
-#. [unit_type]: id=EOM_Offenders, race=devling
+#. [unit_type]: id=EOM_Offenders, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/e3_Offenders.cfg:5
 msgid "Offenders"
 msgstr ""
 
-#. [unit_type]: id=EOM_Offenders, race=devling
+#. [unit_type]: id=EOM_Offenders, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/e3_Offenders.cfg:20
 msgid ""
 "If you have any pride in your heart, then devilings will find a way to "
@@ -1902,12 +1601,12 @@ msgid ""
 "that way. Unfortunately that won't save you from their magics."
 msgstr ""
 
-#. [unit_type]: id=EOM_Abusers, race=devling
+#. [unit_type]: id=EOM_Abusers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/e4_Abusers.cfg:5
 msgid "Abusers"
 msgstr ""
 
-#. [unit_type]: id=EOM_Abusers, race=devling
+#. [unit_type]: id=EOM_Abusers, race=bot_devling
 #: betrayal_of_thaeylan/units/devlings/e4_Abusers.cfg:21
 msgid ""
 "Words can harm a person, and devilings have a knack for finding the right "
